@@ -2,3 +2,10 @@
 
 # Tareas
 
+## Estaciones del Año
+
+```
+Para la actividad 2 se agrego Condicionales de Flujo If, if else, else.
+
+
+```

@@ -15,10 +15,6 @@ La instrucción if … else funciona de forma análoga.
 
 En la siguiente Actividad 2 
 
-Se utilizo estas instrucciones para definir de un rango 
-
-
-
-
+Se utilizo estas instrucciones para definir de un rango de:
 
 ```

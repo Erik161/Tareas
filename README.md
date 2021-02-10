@@ -28,3 +28,9 @@ entonces va tirar una alerta con el mensaje: ES INVIERNO
 ![2021-02-10_14h41_16](https://user-images.githubusercontent.com/26189854/107569591-1a9e5e00-6bae-11eb-9de4-4aff9e7501d4.png)
 
 
+
+Con un ELSE IF se indica si la variable mes es igual a 3 , 4y a 5
+entonces va tirar una alerta con el mensaje: ES PRIMAVERA.
+
+![2021-02-10_14h56_04](https://user-images.githubusercontent.com/26189854/107571132-1d9a4e00-6bb0-11eb-82e8-bb9f6eb45f6c.png)
+

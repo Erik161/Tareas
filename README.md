@@ -4,7 +4,7 @@
 
 ## Estaciones del Año
 
-### ACTIVIDAD 2
+### [ACTIVIDAD 2](https://www.galileo.edu/) 
 
 ```
 Se agrego la Condición IF, If Else, Else.

@@ -66,6 +66,8 @@ Y por ultimo se manda un alerta con mis datos
 
 
 
+![2021-02-11_14h49_36](https://user-images.githubusercontent.com/26189854/107697090-674e6b80-6c78-11eb-9df3-22f310d0371b.png)
+
 
 
 

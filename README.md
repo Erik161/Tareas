@@ -10,6 +10,18 @@
 Se agrego la Condición IF, If Else, Else.
 ```
 
+
+
+| Condición |   
+|-----------|
+| IF        |         
+| IF ELSE   |                                
+| ELSE      |                        
+
+
+
+
+
 Se agrego una variable llamada mes y tiene asignado por defecto el valor 10.
 
 ![2021-02-10_14h21_04](https://user-images.githubusercontent.com/26189854/107567724-a8c51500-6bab-11eb-9a24-0161327c4b3b.png)
